@@ -8,3 +8,5 @@ url: "https://trevordobbertin.com"
 github_username:  "Trevato"
 show_excerpts: true
 markdown: kramdown
+plugins:
+  - jekyll-titles-from-headings
