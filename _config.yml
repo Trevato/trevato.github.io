@@ -1,1 +1,10 @@
+# Jekyll config for personal site
 theme: Minima
+title: "Trevor Dobbertin"
+email: "trevordobbertin@gmail.com"
+description: "Trevor Dobbertin's personal site"
+baseurl: ""
+url: "https://trevordobbertin.com"
+github_username:  "Trevato"
+show_excerpts: true
+markdown: kramdown
