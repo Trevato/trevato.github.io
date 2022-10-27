@@ -1,2 +1,1 @@
-# Trevor Dobbertin
-
+# Computer science student and software developer
